@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="405" height="151" viewBox="0 0 405 151">
+  <defs>
+    <filter id="My_Box" x="0" y="0" width="405" height="151" filterUnits="userSpaceOnUse">
+      <feOffset dx="20" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="myboxlogo" transform="translate(-240 -9)">
+    <g transform="matrix(1, 0, 0, 1, 240, 9)" filter="url(#My_Box)">
+      <text id="My_Box-2" data-name="My Box" transform="translate(0 114)" fill="#707070" font-size="100" font-family="SegoeUIBlack-Italic, Segoe UI" font-style="italic"><tspan x="0" y="0">My Box</tspan></text>
+    </g>
+    <text id="나만을_위한_맞춤_Box" data-name="나만을 위한 맞춤 Box" transform="translate(422 149)" fill="#707070" font-size="18" font-family="MalgunGothic, Malgun Gothic"><tspan x="0" y="0">나만을</tspan><tspan y="0" font-family="SegoeUI, Segoe UI"> </tspan><tspan y="0">위한</tspan><tspan y="0" font-family="SegoeUI, Segoe UI"> </tspan><tspan y="0">맞춤</tspan><tspan y="0" xml:space="preserve" font-family="SegoeUI, Segoe UI"> Box</tspan></text>
+  </g>
+</svg>

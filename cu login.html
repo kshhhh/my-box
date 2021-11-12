@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="ko">
+    <head>
+        <link rel="stylesheet" type="text/css" href="cu login.css">
+
+    </head>
+
+    <div class="logo">
+        <img src="myboxlogo.svg">
+    </div>
+
+    
+    <div class="service">
+                    
+                    
+        <ul>  
+            <li><input type="text" id = 'username' placeholder="ID" name="username"></li>
+            <li><input type="password" id='password' placeholder="PASSWORD" name="password"></li>
+            <li><button type="submit">판매자 로그인하기</button></li>
+            <div class="account">
+                아직 회원이 아니신가요?
+                <a href="{% url 'accountApp:signupAgree' %}">Signup Now</a>
+            </div>
+        
+        </ul>
+        
+    </div>
+
+</div>
+
+</html>
