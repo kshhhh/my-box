@@ -1,0 +1,120 @@
+*{
+    list-style:none;
+    text-decoration:none;
+    border-collapse:collapse;
+    margin:0px;
+    padding:0px;
+}
+.header{
+width:1920px;
+margin:auto;
+
+height:67px;
+
+}
+.nav{
+display:flex;
+margin-left:1200px;
+
+}
+.nav>li{
+margin-left:37px;
+margin-top:21px;
+color:black;
+}
+.search{
+margin-top:-9px;
+}
+.logo{
+    margin-top:-50px;
+    margin-left:240px;
+}
+.background{
+    margin-left:260px;
+    margin-top:70px;
+}
+.first{
+    margin-top:-800px;
+    margin-left:217px;
+}
+.first>h1{
+    color:#305625;
+    
+}
+.image{
+    margin-left:196px;
+    margin-top:20px;
+   
+}
+.right{
+    margin-left:800px;
+    margin-top:-480px;
+}
+.right>h2{
+    color:#707070;
+}
+.lines{
+    margin-left:800px;
+}
+.next{
+    margin-left:800px;
+    margin-top:17px;
+}
+.lines2{
+    margin-left:800px;
+}
+.price{
+    margin-left:800px;
+    margin-top:16px;
+}
+.price>h3{
+    color:#707070;
+}
+.lines3{
+    margin-left:800px;
+}
+.count{
+    display:flex;
+}
+.down>h4{
+    font-size:38px;
+    margin-top:-50px;
+    margin-left:2px;
+}
+.number>h5{
+    font-size:25px;
+    margin-top:-37px;
+    margin-left:50px;
+}
+.up>h6{
+    font-size:32px;
+    margin-top:-45px;
+    margin-left:-1px;
+}
+.count{
+    margin-left:802px;
+    margin-top:16px;
+}
+.lines4{
+    margin-left:800px;
+}
+.price1{
+    margin-top:40px;
+    margin-left:1000px;
+}
+.price1>h7{
+    margin-left:-95px;
+    
+    
+}
+.buy{
+    margin-left:949px;
+    margin-top:20px;
+}
+.section{
+    display:flex;
+}
+.section1{
+    margin-top:280px;
+    margin-left:260px;
+}
