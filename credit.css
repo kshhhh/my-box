@@ -1,0 +1,109 @@
+*{
+    list-style:none;
+    text-decoration:none;
+    border-collapse:collapse;
+    margin:0px;
+    padding:0px;
+}
+.header{
+    width:1920px;
+    margin:auto;
+    
+    height:67px;
+    
+    }
+.nav{
+    display:flex;
+    margin-left:1200px;
+    
+    }
+.nav>li{
+    margin-left:37px;
+    margin-top:21px;
+    color:black;
+    }
+.search{
+    margin-top:-9px;
+    }
+.logo{
+        margin-top:-50px;
+        margin-left:240px;
+    }
+.box{
+    margin-left:257px;
+    margin-top:50px;
+}
+.name>h1{
+    color:#707070;
+    margin-top:-1300px;
+    margin-left:63px;
+    font-size:35px;
+}
+.namee{
+    color:#707070;
+    font-size:15px;
+    margin-left:63px;
+    margin-top:39px;
+
+}
+.info{
+    margin-top:23px;
+    margin-left:63px;
+}
+.photo{
+    margin-top:-200px;
+    margin-left:28px;
+}
+.first>h3{
+    color:#707070;
+    font-size:15px;
+    margin-left:594px;
+    margin-top:-104px;
+}
+.second>h4{
+    color:#707070;
+    font-size:15px;
+    margin-left:982px;
+    margin-top:-25px;
+}
+.third>h5{
+    color:#707070;
+    font-size:15px;
+    margin-left:1149px;
+    margin-top:-20px;
+}
+.formname{
+    color:#707070;
+    font-size:32px;
+    margin-left:63px;
+    margin-top:145px;
+}
+.form{
+    margin-left:63px;
+    margin-top:30px;
+}
+.total{
+    margin-left:730px;
+    margin-top: -124px;
+    
+}
+.right{
+    margin-left:955px;
+    margin-top:-515px;
+}
+.a{
+    margin-top:-175px;
+    margin-left:1250px;
+}
+.b{
+    margin-top:15px; 
+    margin-left:1250px;
+}
+.pay{
+    margin-left:1159px;
+    margin-top:28px;
+}
+.down{
+    margin-top:450px;
+    margin-left:-258px;
+}
