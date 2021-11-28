@@ -23,7 +23,9 @@ margin-top:21px;
 color:black;
 }
 .search{
-margin-top:-9px;
+margin-top:-1px;
+box-shadow: 0px 3px 6px #00000029;
+
 }
 .banner{
 background-image:url("banner2.png");
